@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+.navbar{
+    padding: 4px;
+}
+.right{
+    position: absolute;
+    top: 3px;
+    right: 5px;
+}
+.middle{
+    background: url('/1.jpeg');
+    width: 1350px;
+    height: 480px;
+    color: saddlebrown;
+}

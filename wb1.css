@@ -1,0 +1,25 @@
+.navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+}
+.para{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 3px;
+    font-size: small;
+}
+body{
+    background-color: cornsilk;
+}
+.middle{
+    background: url('1.jpg');
+    background-size: 100% 100%;
+    height: 440px;
+    color: white;
+   
+}
+.middle p{
+    position: absolute;
+    top: 38%;
+    left: 9%;
+}
